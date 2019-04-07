@@ -1,4 +1,4 @@
-const Game = require('.')
+const Game = require('./bowling-game')
 
 describe('Bowling Game', function() {
   let game 
